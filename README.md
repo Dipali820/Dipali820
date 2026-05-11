@@ -1,4 +1,8 @@
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dipali820/Dipali820/refs/heads/main/download%20(1).jfif" alt="Banner" width="100%" /> 
+</p>
 # Hi 👋, I'm Dipali Tompe
 
 ## 🚀 AI/ML Engineer | Python Developer | Django & FastAPI Developer
